@@ -1,0 +1,3 @@
+﻿  SSilochnie_Parametri.cpp
+C:\Users\vladi\source\repos\SSilochnie_Parametri\SSilochnie_Parametri\SSilochnie_Parametri.cpp(20,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  SSilochnie_Parametri.vcxproj -> C:\Users\vladi\source\repos\SSilochnie_Parametri\Debug\SSilochnie_Parametri.exe
